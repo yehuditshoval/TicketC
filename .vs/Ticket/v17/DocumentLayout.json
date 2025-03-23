@@ -1,0 +1,886 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\models\\hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\models\\hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.service\\seatassignmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|solutionrelative:ticket.service\\seatassignmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\models\\seatassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\models\\seatassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.service\\hungarianalgorithmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|solutionrelative:ticket.service\\hungarianalgorithmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|solutionrelative:ticket.service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|solutionrelative:ticket.service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.service\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|solutionrelative:ticket.service\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.service\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|solutionrelative:ticket.service\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.service\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|solutionrelative:ticket.service\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.service\\mappings\\eventmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001955A-1D1A-4EF3-9718-EDB2A116F2C1}|Ticket.Service\\Ticket.Service.csproj|solutionrelative:ticket.service\\mappings\\eventmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\repositories\\ticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\repositories\\ticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\repositories\\seatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\repositories\\seatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\repositories\\seatassignmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\repositories\\seatassignmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\repositories\\iticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\repositories\\iticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\repositories\\iseatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\repositories\\iseatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\dtos\\eventsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\dtos\\eventsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\controllers\\seatassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\controllers\\seatassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\service\\iticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\service\\iticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\service\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\service\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\service\\iseatassignmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\service\\iseatassignmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\repositories\\iseatassignmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\repositories\\iseatassignmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\service\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\service\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.core\\service\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E74DD-3F10-4BE2-ADCF-90B774F022D7}|Ticket.Core\\Ticket.Core.csproj|solutionrelative:ticket.core\\service\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\ticket.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\ticket.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250224110126_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250224110126_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16CD59BE-2EA0-4080-93A1-2522DF14A4CD}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250225140530_s3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250225140530_s3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250225064755_s2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250225064755_s2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250302210111_st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250302210111_st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250305152112_ad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250305152112_ad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250308192630_addholetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250308192630_addholetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250308193705_seatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250308193705_seatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250308192028_tlast2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250308192028_tlast2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|c:\\users\\owner\\desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\ticket\\ticket.data\\migrations\\20250310112715_addprefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0EEA1-D558-4079-B230-8896993BF067}|Ticket.Data\\Ticket.Data.csproj|solutionrelative:ticket.data\\migrations\\20250310112715_addprefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Ticket.Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\EmailService.cs",
+              "RelativeToolTip": "Ticket.Service\\EmailService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:32:04.087Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Seat.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Models\\Seat.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Seat.cs",
+              "RelativeToolTip": "Ticket.Core\\Models\\Seat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:11:27.178Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeatAssignments.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\SeatAssignments.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Models\\SeatAssignments.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\SeatAssignments.cs",
+              "RelativeToolTip": "Ticket.Core\\Models\\SeatAssignments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:32:41.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\DataContext.cs",
+              "RelativeToolTip": "Ticket.Data\\DataContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:45:32.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Program.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Program.cs",
+              "RelativeToolTip": "Ticket.API\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:38:35.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hole.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Hole.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Models\\Hole.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Hole.cs",
+              "RelativeToolTip": "Ticket.Core\\Models\\Hole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:41:42.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Event.cs",
+              "RelativeToolTip": "Ticket.Core\\Models\\Event.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:52:33.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Tickets.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Models\\Tickets.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Tickets.cs",
+              "RelativeToolTip": "Ticket.Core\\Models\\Tickets.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:35:12.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeatAssignmentsService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\SeatAssignmentsService.cs",
+              "RelativeDocumentMoniker": "Ticket.Service\\SeatAssignmentsService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\SeatAssignmentsService.cs",
+              "RelativeToolTip": "Ticket.Service\\SeatAssignmentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:31:46.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Ticket.Core\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:00:36.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HungarianAlgorithmService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\HungarianAlgorithmService.cs",
+              "RelativeDocumentMoniker": "Ticket.Service\\HungarianAlgorithmService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\HungarianAlgorithmService.cs",
+              "RelativeToolTip": "Ticket.Service\\HungarianAlgorithmService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:38:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Ticket.API\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:27:47.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\Users.cs",
+              "RelativeToolTip": "Ticket.Core\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:33:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\UsersService.cs",
+              "RelativeDocumentMoniker": "Ticket.Service\\UsersService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\UsersService.cs",
+              "RelativeToolTip": "Ticket.Service\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:46:33.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketsService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\TicketsService.cs",
+              "RelativeDocumentMoniker": "Ticket.Service\\TicketsService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\TicketsService.cs",
+              "RelativeToolTip": "Ticket.Service\\TicketsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:46:32.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\EventService.cs",
+              "RelativeDocumentMoniker": "Ticket.Service\\EventService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\EventService.cs",
+              "RelativeToolTip": "Ticket.Service\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:45:21.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeatService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\SeatService.cs",
+              "RelativeDocumentMoniker": "Ticket.Service\\SeatService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\SeatService.cs",
+              "RelativeToolTip": "Ticket.Service\\SeatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:36:06.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventMapping.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\Mappings\\EventMapping.cs",
+              "RelativeDocumentMoniker": "Ticket.Service\\Mappings\\EventMapping.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Service\\Mappings\\EventMapping.cs",
+              "RelativeToolTip": "Ticket.Service\\Mappings\\EventMapping.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:03:40.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Ticket.API\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:38:12.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TicketsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\TicketsRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Repositories\\TicketsRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\TicketsRepository.cs",
+              "RelativeToolTip": "Ticket.Data\\Repositories\\TicketsRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:29:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\SeatRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Repositories\\SeatRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\SeatRepository.cs",
+              "RelativeToolTip": "Ticket.Data\\Repositories\\SeatRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:01:20.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeatAssignmentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\SeatAssignmentsRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Repositories\\SeatAssignmentsRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\SeatAssignmentsRepository.cs",
+              "RelativeToolTip": "Ticket.Data\\Repositories\\SeatAssignmentsRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:52:40.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Ticket.Data\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:45:09.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Service\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\IEmailService.cs",
+              "RelativeToolTip": "Ticket.Core\\Service\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:51:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Repositories\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\IUsersRepository.cs",
+              "RelativeToolTip": "Ticket.Core\\Repositories\\IUsersRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:36:15.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITicketsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\ITicketsRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Repositories\\ITicketsRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\ITicketsRepository.cs",
+              "RelativeToolTip": "Ticket.Core\\Repositories\\ITicketsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:34:31.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISeatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\ISeatRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Repositories\\ISeatRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\ISeatRepository.cs",
+              "RelativeToolTip": "Ticket.Core\\Repositories\\ISeatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:00:14.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Repositories\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "Ticket.Core\\Repositories\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:41:51.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EventSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\DTOs\\EventSummaryDto.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\DTOs\\EventSummaryDto.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\DTOs\\EventSummaryDto.cs",
+              "RelativeToolTip": "Ticket.Core\\DTOs\\EventSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:59:31.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Ticket.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:26:55.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SeatController.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\SeatController.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Controllers\\SeatController.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\SeatController.cs",
+              "RelativeToolTip": "Ticket.API\\Controllers\\SeatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:27:21.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SeatAssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\SeatAssignmentsController.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Controllers\\SeatAssignmentsController.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\SeatAssignmentsController.cs",
+              "RelativeToolTip": "Ticket.API\\Controllers\\SeatAssignmentsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:13:21.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Ticket.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:52:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Models\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Models\\SmtpSettings.cs",
+              "RelativeToolTip": "Ticket.Core\\Models\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:19:38.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ticket.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\appsettings.json",
+              "RelativeToolTip": "Ticket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T17:48:01.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250310112715_addPrefer.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250310112715_addPrefer.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250310112715_addPrefer.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250310112715_addPrefer.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250310112715_addPrefer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:27:15.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITicketsService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\ITicketsService.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Service\\ITicketsService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\ITicketsService.cs",
+              "RelativeToolTip": "Ticket.Core\\Service\\ITicketsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:18:54.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\IEventService.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Service\\IEventService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\IEventService.cs",
+              "RelativeToolTip": "Ticket.Core\\Service\\IEventService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:42:43.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250308192630_AddHoleTable.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250308192630_AddHoleTable.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250308192630_AddHoleTable.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250308192630_AddHoleTable.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250308192630_AddHoleTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:26:30.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250308193705_seatu.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250308193705_seatu.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250308193705_seatu.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250308193705_seatu.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250308193705_seatu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:37:05.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250308192028_tlast2.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250308192028_tlast2.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250308192028_tlast2.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250308192028_tlast2.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250308192028_tlast2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:20:28.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250305152112_ad1.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250305152112_ad1.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250305152112_ad1.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250305152112_ad1.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250305152112_ad1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:21:12.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ISeatAssignmentsService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\ISeatAssignmentsService.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Service\\ISeatAssignmentsService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\ISeatAssignmentsService.cs",
+              "RelativeToolTip": "Ticket.Core\\Service\\ISeatAssignmentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:28:19.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ISeatAssignmentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\ISeatAssignmentsRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Repositories\\ISeatAssignmentsRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Repositories\\ISeatAssignmentsRepository.cs",
+              "RelativeToolTip": "Ticket.Core\\Repositories\\ISeatAssignmentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:28:15.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ISeatService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\ISeatService.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Service\\ISeatService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\ISeatService.cs",
+              "RelativeToolTip": "Ticket.Core\\Service\\ISeatService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:01:02.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250302210111_st.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250302210111_st.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250302210111_st.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250302210111_st.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250302210111_st.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:01:11.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Ticket.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Ticket.Data.csproj",
+              "RelativeDocumentMoniker": "Ticket.Data\\Ticket.Data.csproj",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Ticket.Data.csproj",
+              "RelativeToolTip": "Ticket.Data\\Ticket.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T20:05:07.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\IUsersService.cs",
+              "RelativeDocumentMoniker": "Ticket.Core\\Service\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Core\\Service\\IUsersService.cs",
+              "RelativeToolTip": "Ticket.Core\\Service\\IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:36:57.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250225140530_s3.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250225140530_s3.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250225140530_s3.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250225140530_s3.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250225140530_s3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:05:30.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "Ticket.Data\\Repositories\\UsersRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:38:17.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250225064755_s2.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250225064755_s2.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250225064755_s2.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250225064755_s2.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250225064755_s2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:47:55.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250224110126_start.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250224110126_start.cs",
+              "RelativeDocumentMoniker": "Ticket.Data\\Migrations\\20250224110126_start.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.Data\\Migrations\\20250224110126_start.cs",
+              "RelativeToolTip": "Ticket.Data\\Migrations\\20250224110126_start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:01:26.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ticket.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\OWNER\\Desktop\\computer\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E4 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\Ticket\\Ticket.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ticket.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T22:31:19.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

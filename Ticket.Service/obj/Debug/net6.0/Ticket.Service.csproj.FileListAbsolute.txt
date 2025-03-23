@@ -1,0 +1,150 @@
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CopyComplete
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+D:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CopyComplete
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+E:\פרויקט תמר ויהודית\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+C:\Users\mac\Desktop\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+C:\Users\mac\Desktop\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+C:\Users\mac\Desktop\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+C:\Users\mac\Desktop\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+C:\Users\mac\Desktop\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CopyComplete
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+C:\Users\mac\Desktop\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+E:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+E:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+E:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+E:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+E:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CopyComplete
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+E:\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+G:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+G:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+G:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+G:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+G:\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.S.6C72D6F5.Up2Date
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+G:\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.S.6C72D6F5.Up2Date
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CopyComplete
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.S.6C72D6F5.Up2Date
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.S.6C72D6F5.Up2Date
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.deps.json
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\bin\Debug\net6.0\Ticket.Core.pdb
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.S.6C72D6F5.Up2Date
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\refint\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.Service\obj\Debug\net6.0\ref\Ticket.Service.dll

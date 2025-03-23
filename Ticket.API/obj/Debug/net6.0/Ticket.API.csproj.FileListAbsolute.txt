@@ -1,0 +1,719 @@
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.Up2Date
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+G:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+D:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+E:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+E:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+E:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+E:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+E:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט תמר ויהודית\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.pdb
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.pdb
+C:\Users\mac\Desktop\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.pdb
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CopyComplete
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+C:\Users\mac\Desktop\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Humanizer.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.dll
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.pdb
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.pdb
+E:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.pdb
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+E:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+E:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+E:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CopyComplete
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+E:\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+E:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+E:\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+G:\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Humanizer.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.Collections.Immutable.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.dll
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.pdb
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.pdb
+G:\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.pdb
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+G:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+G:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+G:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+G:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+G:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+G:\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.Up2Date
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+G:\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+G:\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+G:\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Humanizer.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Collections.Immutable.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.pdb
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.pdb
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.pdb
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.Up2Date
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
+G:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Humanizer.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.pdb
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.pdb
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.pdb
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CopyComplete
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+D:\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.pdb
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.pdb
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.Up2Date
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\MailKit.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\MimeKit.dll
+C:\Users\OWNER\Desktop\פרויקט סישאפ יהודית ותמר\Ticket\Ticket.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\MailKit.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\MimeKit.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.pdb
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.pdb
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.Up2Date
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+C:\Users\OWNER\Desktop\computer\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\appsettings.json
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.exe
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.deps.json
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.runtimeconfig.json
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.API.pdb
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\MailKit.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\MimeKit.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Core.pdb
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Data.pdb
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\bin\Debug\net6.0\Ticket.Service.pdb
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.Ticket.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket.API.props
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket.API.props
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket.API.props
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\scopedcss\bundle\Ticket.API.styles.css
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.csproj.Up2Date
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\refint\Ticket.API.dll
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.pdb
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\Ticket.API.genruntimeconfig.cache
+C:\Users\OWNER\Desktop\computer\פרויקט סישאפ אנגולר\Ticket\Ticket.API\obj\Debug\net6.0\ref\Ticket.API.dll
